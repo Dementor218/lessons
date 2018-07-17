@@ -17,6 +17,5 @@ var mainList = {
 	shopGoods: [quest1, quest2, quest3],
 	employers: employersOp
 };
-console.log(mainList.employers);
 
 alert("Ваш бюджет на 1 день: " + mainList.summa/30 + " рублей.");
